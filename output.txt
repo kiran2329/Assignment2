@@ -1,0 +1,11 @@
+[     0     80000] Spawning Child With pid: 20029 at 375891
+[     0    580000] Spawning Child With pid: 20030 at 5000000
+[     0  12840000] Terminated Child With pid: 20029
+[     0  12860000] Spawning Child With pid: 20031 at 375620
+[     0  14200000] Terminated Child With pid: 20030
+[     0  28240000] Terminated Child With pid: 20031
+[     1     40000] Spawning Child With pid: 20032 at 35000
+[     1     60000] Spawning Child With pid: 20033 at 35000
+[     1  13420000] Terminated Child With pid: 20033
+[     1  14060000] Terminated Child With pid: 20032
+[     1  14060000] Terminating

@@ -1,0 +1,9 @@
+
+To build:
+$ make
+
+To run:
+1. Create input.txt
+2. $ ./oss
+
+oss process has options. Use ./oss -h to get help about them.
